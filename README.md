@@ -11,31 +11,27 @@
   <img src="https://komarev.com/ghpvc/?username=mujahidraj&label=Profile+Views&color=6c63ff&style=for-the-badge" alt="mujahidraj" /> 
 </div>
 
-## 🔥 My Coding Streaks & Stats
-
-<div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=mujahidraj&theme=default&hide_border=true&border_radius=10&mode=weekly&background=FFFFFF)](https://git.io/streak-stats)
-  
-  <br/>
-  
-  ![Mujahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=mujahidraj&show_icons=true&theme=default&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&bg_color=FFFFFF)
-  
-  <br/>
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mujahidraj&layout=compact&theme=default&hide_border=true&border_radius=10&langs_count=8&exclude_repo=github-readme-stats,anuraghazra.github.io&bg_color=FFFFFF)
-  
-  <br/>
-  
-  [![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=mujahidraj&theme=light&hide_border=true&background=FFFFFF&mode=weekly)](https://github.com/DenverCoder1/github-readme-streak-stats)
-  
-</div>
-
 ## 🌟 About Me
 
 <p style="font-family: 'Trebuchet MS', sans-serif; color: #333; line-height: 1.6;">
   I'm a passionate web developer from Bangladesh with expertise in building modern, responsive, and user-friendly web applications. I love turning complex problems into simple, beautiful, and intuitive solutions. When I'm not coding, you'll find me exploring new technologies, contributing to open-source projects, or writing technical blogs.
 </p>
+
+## 🔥 My Coding Streaks & Stats
+
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=mujahidraj&theme=default&hide_border=true&border_radius=10&mode=weekly)](https://git.io/streak-stats)
+  
+  <br/>
+  
+  ![Mujahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=mujahidraj&show_icons=true&theme=default&hide_border=true&border_radius=10&include_all_commits=true&count_private=true)
+  
+  <br/>
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mujahidraj&layout=compact&theme=default&hide_border=true&border_radius=10&langs_count=8&exclude_repo=github-readme-stats,anuraghazra.github.io)
+  
+</div>
 
 ## 🛠️ My Toolbox
 
@@ -106,25 +102,10 @@
   
 </div>
 
-## 📈 Recent GitHub Activity
-
-<div align="center" style="background-color: white; border-radius: 10px; padding: 15px; margin: 20px 0; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  <h3 style="color: #6c63ff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">My Recent Activity</h3>
-  
-  <!--START_SECTION:activity-->
-  1. 🎉 Merged PR [#12] in [mujahidraj/Personal-Site] - Added new portfolio section<br>
-  2. 🚀 Pushed 5 commits to [mujahidraj/Personal-Site] - Updated project dependencies<br>
-  3. 🔨 Opened issue [#5] in [mujahidraj/Project-X] - Bug report for login page<br>
-  4. 💪 Created PR [#8] in [mujahidraj/Project-Y] - Implemented dark mode feature<br>
-  5. 🎨 Improved UI in [mujahidraj/Project-Z] - Redesigned dashboard layout<br>
-  <!--END_SECTION:activity-->
-  
-</div>
-
 <div align="center" style="margin-top: 40px;">
-  <img src="https://raw.githubusercontent.com/mujahidraj/mujahidraj/main/github-contribution-grid-snake.svg" alt="Snake animation" />
+  ![Snake animation](https://github.com/mujahidraj/mujahidraj/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-<div align="center" style="margin-top: 20px; background-color: white; border-radius: 10px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<div align="center" style="margin-top: 20px;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random quote" />
 </div>
