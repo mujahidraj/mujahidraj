@@ -1,5 +1,5 @@
-<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #4a4a4a; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">✨ Hello World! I'm Moizuddin Mohammad Mujahid Rashid ✨</h1>
-<h3 align="center" style="font-family: 'Courier New', monospace; color: #6c63ff; letter-spacing: 1px;">🚀 Full Stack Web Developer | Open Source Enthusiast | Problem Solver</h3>
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #4a4a4a; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">✨ Hello buddy! I'm Moizuddin Mohammad Mujahid Rashid ✨</h1>
+<h3 align="center" style="font-family: 'Courier New', monospace; color: #6c63ff; letter-spacing: 1px;">🚀 Full Stack Web Developer | Open Source Enthusiast | Problem Solver | UI/UX designer | Word Press Web Developer | Data Science Student | Exploring the Tech World | Learning New everyday</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Turning+ideas+into+reality;Clean+code+enthusiast;Always+learning+new+tech;Passionate+about+UI%2FUX" alt="Typing SVG" />
@@ -14,7 +14,7 @@
 ## 🌟 About Me
 
 <p style="font-family: 'Trebuchet MS', sans-serif; color: #333; line-height: 1.6;">
-  I'm a passionate web developer from Bangladesh with expertise in building modern, responsive, and user-friendly web applications. I love turning complex problems into simple, beautiful, and intuitive solutions. When I'm not coding, you'll find me exploring new technologies, contributing to open-source projects, or writing technical blogs.
+  I'm a passionate web developer, Wordpress Web developer, UI/UX designer and a data science student from Bangladesh with expertise in building modern, responsive, and user-friendly web applications and learning data science techniques. I love turning complex problems into simple, beautiful, and intuitive solutions. When I'm not coding, you'll find me exploring new technologies, contributing to open-source projects, or writing technical blogs.
 </p>
 <br/>
 
