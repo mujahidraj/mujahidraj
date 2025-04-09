@@ -1,30 +1,125 @@
-<h1 align="center">Hi 👋, I'm Moizuddin Mohammad Mujahid Rashid</h1>
-<h3 align="center">A passionate Web Developer from Bangladesh</h3>
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #4a4a4a; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">✨ Hello World! I'm Moizuddin Mohammad Mujahid Rashid ✨</h1>
+<h3 align="center" style="font-family: 'Courier New', monospace; color: #6c63ff; letter-spacing: 1px;">🚀 Full Stack Web Developer | Open Source Enthusiast | Problem Solver</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mujahidraj&label=Profile%20views&color=0e75b6&style=flat" alt="mujahidraj" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Turning+ideas+into+reality;Clean+code+enthusiast;Always+learning+new+tech;Passionate+about+UI%2FUX" alt="Typing SVG" />
+</div>
 
-- 🌱 I’m currently learning **ReactJs**
+<br/>
 
-- 👨‍💻 All of my projects are available at [https://mujahidraj.github.io/Personal-Site/Portfolio/index.html](https://mujahidraj.github.io/Personal-Site/Portfolio/index.html)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mujahidraj&label=Profile+Views&color=6c63ff&style=for-the-badge" alt="mujahidraj" /> 
+</div>
 
-- 📝 I regularly write articles on [https://mujahidraj.github.io/Personal-Site/My%20Blogs/index.html](https://mujahidraj.github.io/Personal-Site/My%20Blogs/index.html)
+## 🔥 My Coding Streaks & Stats
 
-- 💬 Ask me about **Web Development**
+<div align="center">
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=mujahidraj&theme=radical&hide_border=true&border_radius=10&mode=weekly&background=45%2C1A1B27%2C0D1117)
+  
+  <br/>
+  
+  ![Mujahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=mujahidraj&show_icons=true&theme=radical&hide_border=true&border_radius=10&include_all_commits=true&count_private=true)
+  
+  <br/>
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mujahidraj&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=8&exclude_repo=github-readme-stats,anuraghazra.github.io)
+  
+  <br/>
+  
+  ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=mujahidraj&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph)
+  
+</div>
 
-- 📫 How to reach me **Mujahidraj65@gmail.com**
+## 🌟 About Me
 
-- 📄 Know about my experiences [https://mujahidraj.github.io/Personal-Site/](https://mujahidraj.github.io/Personal-Site/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mujahidraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mujahidraj/" height="30" width="40" /></a>
+<p style="font-family: 'Trebuchet MS', sans-serif; color: #333; line-height: 1.6;">
+  I'm a passionate web developer from Bangladesh with expertise in building modern, responsive, and user-friendly web applications. I love turning complex problems into simple, beautiful, and intuitive solutions. When I'm not coding, you'll find me exploring new technologies, contributing to open-source projects, or writing technical blogs.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🛠️ My Toolbox
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mujahidraj&show_icons=true&locale=en&layout=compact" alt="mujahidraj" /></p>
+<div align="center">
+  
+  ### 💻 Languages
+  
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
+  </div>
+  
+  ### 🚀 Frameworks & Libraries
+  
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  </div>
+  
+  ### 🗃️ Databases
+  
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="Oracle">
+  </div>
+  
+  ### 🛠️ Tools
+  
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+  </div>
+  
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mujahidraj&show_icons=true&locale=en" alt="mujahidraj" /></p>
+## 📬 Get in Touch
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mujahidraj&" alt="mujahidraj" /></p>
+<div align="center" style="margin-top: 20px;">
+  
+  <a href="https://www.linkedin.com/in/mujahidraj/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  
+  <a href="mailto:Mujahidraj65@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  
+  <a href="https://mujahidraj.github.io/Personal-Site/Portfolio/index.html">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio">
+  </a>
+  
+  <a href="https://mujahidraj.github.io/Personal-Site/My%20Blogs/index.html">
+    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog">
+  </a>
+  
+</div>
+
+## 📈 Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1] in [mujahidraj/repository] 
+2. 🚀 Pushed 3 commits to [mujahidraj/repository]
+3. 🔨 Opened issue [#2] in [mujahidraj/repository]
+4. 💪 Created PR [#3] in [mujahidraj/repository]
+5. 🎨 Improved UI in [mujahidraj/repository]
+<!--END_SECTION:activity-->
+
+<div align="center" style="margin-top: 40px;">
+  <img src="https://github.com/mujahidraj/mujahidraj/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random quote" />
+</div>
