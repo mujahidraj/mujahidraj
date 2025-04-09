@@ -15,7 +15,7 @@
 
 <div align="center">
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=mujahidraj&theme=radical&hide_border=true&border_radius=10&mode=weekly&background=45%2C1A1B27%2C0D1117)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=mujahidraj&theme=radical&hide_border=true&border_radius=10&mode=weekly)](https://git.io/streak-stats)
   
   <br/>
   
@@ -27,7 +27,7 @@
   
   <br/>
   
-  ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=mujahidraj&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph)
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mujahidraj&bg_color=ffffff&color=000000&line=6c63ff&point=1a1b27&area=true&hide_border=true&custom_title=My%20Contribution%20Graph)
   
 </div>
 
@@ -109,15 +109,15 @@
 ## 📈 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1] in [mujahidraj/repository] 
-2. 🚀 Pushed 3 commits to [mujahidraj/repository]
-3. 🔨 Opened issue [#2] in [mujahidraj/repository]
-4. 💪 Created PR [#3] in [mujahidraj/repository]
-5. 🎨 Improved UI in [mujahidraj/repository]
+1. ❗️ Closed issue [#2] in [mujahidraj/Personal-Site]
+2. 🎉 Merged PR [#1] in [mujahidraj/Personal-Site]
+3. 🚀 Pushed 3 commits to [mujahidraj/Personal-Site]
+4. 🔨 Opened issue [#2] in [mujahidraj/Personal-Site]
+5. 💪 Created PR [#3] in [mujahidraj/Personal-Site]
 <!--END_SECTION:activity-->
 
 <div align="center" style="margin-top: 40px;">
-  <img src="https://github.com/mujahidraj/mujahidraj/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  ![Snake animation](https://github.com/mujahidraj/mujahidraj/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <div align="center" style="margin-top: 20px;">
