@@ -16,22 +16,45 @@
 <p style="font-family: 'Trebuchet MS', sans-serif; color: #333; line-height: 1.6;">
   I'm a passionate web developer from Bangladesh with expertise in building modern, responsive, and user-friendly web applications. I love turning complex problems into simple, beautiful, and intuitive solutions. When I'm not coding, you'll find me exploring new technologies, contributing to open-source projects, or writing technical blogs.
 </p>
+<br/>
 
 ## 🔥 My Coding Streaks & Stats
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=mujahidraj&theme=default&hide_border=true&border_radius=10&mode=weekly)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=mujahidraj&theme=default&hide_border=true&border_radius=10&mode=weekly&background=FFFFFF)](https://git.io/streak-stats)
   
   <br/>
   
-  ![Mujahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=mujahidraj&show_icons=true&theme=default&hide_border=true&border_radius=10&include_all_commits=true&count_private=true)
+  ![Mujahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=mujahidraj&show_icons=true&theme=default&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&line_height=24)
   
   <br/>
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mujahidraj&layout=compact&theme=default&hide_border=true&border_radius=10&langs_count=8&exclude_repo=github-readme-stats,anuraghazra.github.io)
   
 </div>
+
+## 📊 Contributions
+
+<div align="center">
+  
+  ### 🌱 Contribution Graph
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mujahidraj&bg_color=ffffff&color=000000&line=6c63ff&point=1a1b27&area=true&hide_border=true&custom_title=My%20Daily%20Contributions&area_color=6c63ff&area_alpha=0.2)
+  
+  <br/>
+  
+  
+  ### 📅 GitHub Contribution Calendar
+  <img src="https://ghchart.rshah.org/mujahidraj" alt="Mujahid's Github Contributions Chart" />
+  
+  <br/>
+  <br/>
+  
+  ### 🏆 GitHub Trophies
+  ![trophy](https://github-profile-trophy.vercel.app/?username=mujahidraj&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
+  
+</div>
+<br/>
 
 ## 🛠️ My Toolbox
 
@@ -102,10 +125,9 @@
   
 </div>
 
-<div align="center" style="margin-top: 40px;">
-  ![Snake animation](https://github.com/mujahidraj/mujahidraj/blob/output/github-contribution-grid-snake.svg)
-</div>
+<br/>
+<br/>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" alt="Random quote" />
 </div>
