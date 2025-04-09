@@ -15,19 +15,19 @@
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=mujahidraj&theme=radical&hide_border=true&border_radius=10&mode=weekly)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=mujahidraj&theme=default&hide_border=true&border_radius=10&mode=weekly&background=FFFFFF)](https://git.io/streak-stats)
   
   <br/>
   
-  ![Mujahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=mujahidraj&show_icons=true&theme=radical&hide_border=true&border_radius=10&include_all_commits=true&count_private=true)
+  ![Mujahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=mujahidraj&show_icons=true&theme=default&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&bg_color=FFFFFF)
   
   <br/>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mujahidraj&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=8&exclude_repo=github-readme-stats,anuraghazra.github.io)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mujahidraj&layout=compact&theme=default&hide_border=true&border_radius=10&langs_count=8&exclude_repo=github-readme-stats,anuraghazra.github.io&bg_color=FFFFFF)
   
   <br/>
   
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mujahidraj&bg_color=ffffff&color=000000&line=6c63ff&point=1a1b27&area=true&hide_border=true&custom_title=My%20Contribution%20Graph)
+  [![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=mujahidraj&theme=light&hide_border=true&background=FFFFFF&mode=weekly)](https://github.com/DenverCoder1/github-readme-streak-stats)
   
 </div>
 
@@ -108,18 +108,23 @@
 
 ## 📈 Recent GitHub Activity
 
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2] in [mujahidraj/Personal-Site]
-2. 🎉 Merged PR [#1] in [mujahidraj/Personal-Site]
-3. 🚀 Pushed 3 commits to [mujahidraj/Personal-Site]
-4. 🔨 Opened issue [#2] in [mujahidraj/Personal-Site]
-5. 💪 Created PR [#3] in [mujahidraj/Personal-Site]
-<!--END_SECTION:activity-->
-
-<div align="center" style="margin-top: 40px;">
-  ![Snake animation](https://github.com/mujahidraj/mujahidraj/blob/output/github-contribution-grid-snake.svg)
+<div align="center" style="background-color: white; border-radius: 10px; padding: 15px; margin: 20px 0; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <h3 style="color: #6c63ff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">My Recent Activity</h3>
+  
+  <!--START_SECTION:activity-->
+  1. 🎉 Merged PR [#12] in [mujahidraj/Personal-Site] - Added new portfolio section<br>
+  2. 🚀 Pushed 5 commits to [mujahidraj/Personal-Site] - Updated project dependencies<br>
+  3. 🔨 Opened issue [#5] in [mujahidraj/Project-X] - Bug report for login page<br>
+  4. 💪 Created PR [#8] in [mujahidraj/Project-Y] - Implemented dark mode feature<br>
+  5. 🎨 Improved UI in [mujahidraj/Project-Z] - Redesigned dashboard layout<br>
+  <!--END_SECTION:activity-->
+  
 </div>
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random quote" />
+<div align="center" style="margin-top: 40px;">
+  <img src="https://raw.githubusercontent.com/mujahidraj/mujahidraj/main/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<div align="center" style="margin-top: 20px; background-color: white; border-radius: 10px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random quote" />
 </div>
