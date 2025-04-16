@@ -2,7 +2,7 @@
 <h3 align="center" style="font-family: 'Courier New', monospace; color: #6c63ff; letter-spacing: 1px;">🚀 Full Stack Web Developer | Open Source Enthusiast | Problem Solver | UI/UX designer | Word Press Web Developer | Data Science Student | Exploring the Tech World | Learning New everyday</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Turning+ideas+into+reality;Clean+code+enthusiast;Always+learning+new+tech;Passionate+about+UI%2FUX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Turning+ideas+into+reality;Clean+code+enthusiast;Always+learning+new+tech;Open+source+enthusiast;Exploring+the+world+of+tech;Passionate+about+UI%2FUX" alt="Typing SVG" />
 </div>
 
 <br/>
