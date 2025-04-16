@@ -17,11 +17,11 @@
  I’m a passionate Full-Stack Web Developer 💻, WordPress & UI/UX Designer 🎨, and a Data Science Student 📊 from Bangladesh. I thrive at the intersection of creativity and logic—building modern, responsive, and user-friendly web applications while unraveling insights from data.
 
 What I Do
-🔹 Web Development: Crafting high-performance websites using Next.js, Nest.js, Tailwind CSS ⚡, and WordPress (Elementor, custom themes/plugins).
-🔹 UI/UX Design: Designing intuitive, pixel-perfect interfaces with Figma ✏️, focusing on accessibility and user delight.
-🔹 Data Science: Exploring Python 🐍, R 📈, Pandas, NumPy to solve real-world problems with data-driven solutions.
-🔹 Problem-Solving: Breaking down complex challenges 🧩 into elegant, scalable solutions—whether it’s a buggy API 🐞 or a messy dataset 📉. 
-
+<p>🔹 Web Development: Crafting high-performance websites using Next.js, Nest.js, Tailwind CSS ⚡, and WordPress (Elementor, custom themes/plugins).<p/>
+<p>🔹 UI/UX Design: Designing intuitive, pixel-perfect interfaces with Figma ✏️, focusing on accessibility and user delight.<p/>
+<p>🔹 Data Science: Exploring Python 🐍, R 📈, Pandas, NumPy to solve real-world problems with data-driven solutions.<p/>
+<p>🔹 Problem-Solving: Breaking down complex challenges 🧩 into elegant, scalable solutions—whether it’s a buggy API 🐞 or a messy dataset 📉. 
+<p/>
 My Work & Projects 
 ✅ Built 10+ WordPress websites   
 ✅ Developed custom web apps (LMS platforms, personal site and other). 
