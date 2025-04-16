@@ -22,7 +22,7 @@
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=mujahidraj&theme=default&hide_border=true&border_radius=10&mode=weekly&background=FFFFFF)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=mujahidraj)](https://git.io/streak-stats)
   
   <br/>
   
