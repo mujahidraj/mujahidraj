@@ -14,7 +14,36 @@
 ## 🌟 About Me
 
 <p style="font-family: 'Trebuchet MS', sans-serif; color: #333; line-height: 1.6;">
-  I'm a passionate web developer, Wordpress Web developer, UI/UX designer and a data science student from Bangladesh with expertise in building modern, responsive, and user-friendly web applications and learning data science techniques. I love turning complex problems into simple, beautiful, and intuitive solutions. When I'm not coding, you'll find me exploring new technologies, contributing to open-source projects, or writing technical blogs.
+ I’m a passionate Full-Stack Web Developer 💻, WordPress & UI/UX Designer 🎨, and a Data Science Student 📊 from Bangladesh. I thrive at the intersection of creativity and logic—building modern, responsive, and user-friendly web applications while unraveling insights from data.
+
+What I Do
+🔹 Web Development: Crafting high-performance websites using Next.js, Nest.js, Tailwind CSS ⚡, and WordPress (Elementor, custom themes/plugins).
+🔹 UI/UX Design: Designing intuitive, pixel-perfect interfaces with Figma ✏️, focusing on accessibility and user delight.
+🔹 Data Science: Exploring Python 🐍, R 📈, Pandas, NumPy to solve real-world problems with data-driven solutions.
+🔹 Problem-Solving: Breaking down complex challenges 🧩 into elegant, scalable solutions—whether it’s a buggy API 🐞 or a messy dataset 📉. 
+
+My Work & Projects 
+✅ Built 10+ WordPress websites   
+✅ Developed custom web apps (LMS platforms, personal site and other). 
+✅ Contributed to open-source projects (GitHub) .
+
+My Passion
+I’m obsessed with bridging gaps—between design and code, data and decisions, or users and technology. Whether it’s:  
+- Turning a user’s frustration into a seamless experience,  
+- Transforming raw data into actionable insights,  
+I love making technology work for people.  
+
+Future Goals 
+🚀 Transition into AI-powered web development (think chatbots, predictive analytics in UX).  
+🌍 Work on global projects that impact education, healthcare, or sustainability.  
+📚 Master Deep Learning and Cloud Architecture (AWS/GCP).  
+✍️ Share knowledge through YouTube tutorials or a developer-focused newsletter.  
+
+Beyond Code  
+📖 Bookworm (fan of sci-fi, Detective, tech journals, and philosophy).  
+🌱 Plant parent (because even developers need patience).  
+
+I’m always open to collaborations, freelance projects, or geeky conversations—let’s connect!
 </p>
 <br/>
 
