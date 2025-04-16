@@ -23,10 +23,11 @@ What I Do
 <p>🔹 Problem-Solving: Breaking down complex challenges 🧩 into elegant, scalable solutions—whether it’s a buggy API 🐞 or a messy dataset 📉. 
 <p/>
 My Work & Projects 
-✅ Built 10+ WordPress websites   
-✅ Developed custom web apps (LMS platforms, personal site and other). 
-✅ Contributed to open-source projects (GitHub) .
-
+<p>✅ Built 10+ WordPress websites   
+<p/>
+<p>✅ Developed custom web apps (LMS platforms, personal site and other). <p/>
+<p>✅ Contributed to open-source projects (GitHub) .
+<p/>
 My Passion
 I’m obsessed with bridging gaps—between design and code, data and decisions, or users and technology. Whether it’s:  
 - Turning a user’s frustration into a seamless experience,  
