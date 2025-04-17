@@ -52,9 +52,7 @@ Iâ€™m always open to collaborations, freelance projects, or geeky conversationsâ
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=mujahidraj)](https://git.io/streak-stats)
-  
-  <br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=mujahidraj&theme=whatsapp-light)](https://git.io/streak-stats)  <br/>
   
   ![Mujahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=mujahidraj&show_icons=true&theme=default&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&line_height=24)
   
