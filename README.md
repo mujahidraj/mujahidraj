@@ -52,13 +52,18 @@ Iâ€™m always open to collaborations, freelance projects, or geeky conversationsâ
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=mujahidraj&theme=whatsapp-light)](https://git.io/streak-stats)  <br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=mujahidraj&theme=whatsapp-light)](https://git.io/streak-stats)  
   
-  ![Mujahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=mujahidraj&show_icons=true&theme=default&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&line_height=24)
+
+ 
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mujahidraj&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+   <br/>
+
+   
   
-  <br/>
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mujahidraj&layout=compact&theme=default&hide_border=true&border_radius=10&langs_count=8&exclude_repo=github-readme-stats,anuraghazra.github.io)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mujahidraj&layout=compact&theme=default&hide_border=true&border_radius=10&langs_count=15&exclude_repo=github-readme-stats,anuraghazra.github.io)
   
 </div>
 
