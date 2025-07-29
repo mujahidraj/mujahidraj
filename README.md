@@ -67,7 +67,7 @@ I‚Äôm always open to collaborations, freelance projects, or geeky conversations‚
 <div align="center">
   
   ### üå± Contribution Graph
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mujahidraj&bg_color=black&color=000000&line=FFFFFF&point=013220&area=true&hide_border=true&custom_title=My%20Daily%20Contributions&area_color=6c63ff&area_alpha=0.2)
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mujahidraj&bg_color=black&color=E0E0E0&line=FFFFFF&point=00AB67&area=true&hide_border=true&custom_title=My%20Daily%20Contributions&area_color=6c63ff&area_alpha=0.2)
   
   <br/>
   
@@ -79,7 +79,7 @@ I‚Äôm always open to collaborations, freelance projects, or geeky conversations‚
   <br/>
   
   ### üèÜ GitHub Trophies
-  ![trophy](https://github-profile-trophy.vercel.app/?username=mujahidraj&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=mujahidraj&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&color=white)
   
 </div>
 <br/>
@@ -90,7 +90,7 @@ I‚Äôm always open to collaborations, freelance projects, or geeky conversations‚
   
   ### üíª Languages
   
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 50px;">
+  <div style="display: flex; font-family:sans-sherif; flex-wrap: wrap; justify-content: center; gap: 50px;">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -157,5 +157,5 @@ I‚Äôm always open to collaborations, freelance projects, or geeky conversations‚
 <br/>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" alt="Random quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random quote" />
 </div>
