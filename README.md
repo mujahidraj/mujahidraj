@@ -49,13 +49,56 @@ I’m a passionate tech geek from **Bangladesh**, creating immersive web experie
 
 
 
-## 📊 Contribution Graph & Calendar
+
+## 📊 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mujahidraj&theme=react-dark&area=true&hide_border=true" />
   <br/>
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mujahidraj&theme=onedark&no-frame=true&column=7&margin-w=10&margin-h=15" />
+</div>
+
+
+
+
+
+
+
+
+## GitHub Calender
+  
   <img src="https://ghchart.rshah.org/6c63ff/mujahidraj" alt="Mujahidraj's GitHub Chart" />
 </div>
+
+
+## 📦 Project Types & Distribution
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mujahidraj&repo=TechWisdom-Student-NextJs&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mujahidraj&repo=Rest-Api-NestJs&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mujahidraj&repo=Health-Tracker&theme=tokyonight&hide_border=true" />
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mujahidraj&repo=games&theme=tokyonight&hide_border=true" />
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mujahidraj&repo=Algorithm-Solution-Hub&theme=tokyonight&hide_border=true" />
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mujahidraj&repo=Personal-Site&theme=tokyonight&hide_border=true" />
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mujahidraj&repo=Number-system&theme=tokyonight&hide_border=true" />
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mujahidraj&repo=Rinterio-House-Tailwind-DaisyUI-PH&theme=tokyonight&hide_border=true" />
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mujahidraj&repo=Hotel-management-system-CSHARP&theme=tokyonight&hide_border=true" />
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mujahidraj&repo=Search-Engine-JAVA&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
 
 
 
