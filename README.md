@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #4a4a4a; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">✨ Hello buddy! I'm Moizuddin Mohammad Mujahid Rashid ✨</h1>
-<h3 align="center" style="font-family: 'Courier New', monospace; color: #6c63ff; letter-spacing: 1px;">🚀 Full Stack Web Developer | Open Source Enthusiast | Problem Solver | UI/UX designer | Word Press Web Developer | Data Science Student | Exploring the Tech World | Learning New everyday</h3>
+<h3 align="center" style="font-family: 'Courier New', monospace; color: #6c63ff; letter-spacing: 1px;">🚀 Full Stack Web Developer | Open Source Enthusiast | Problem Solver | UI/UX designer | Data Science Student | Exploring the Tech World | Learning New everyday</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Turning+ideas+into+reality;Clean+code+enthusiast;Always+learning+new+tech;Open+source+enthusiast;Exploring+the+world+of+tech;Passionate+about+UI%2FUX" alt="Typing SVG" />
@@ -14,16 +14,15 @@
 ## 🌟 About Me
 
 <p style="font-family: 'Trebuchet MS', sans-serif; color: #333; line-height: 1.6;">
- I’m a passionate Full-Stack Web Developer 💻, WordPress & UI/UX Designer 🎨, and a Data Science Student 📊 from Bangladesh. I thrive at the intersection of creativity and logic—building modern, responsive, and user-friendly web applications while unraveling insights from data.
+ I’m a passionate Full-Stack Web Developer 💻, UI/UX Designer 🎨, and a Data Science Student 📊 from Bangladesh. I thrive at the intersection of creativity and logic—building modern, responsive, and user-friendly web applications while unraveling insights from data.
 
 What I Do
-<p>🔹 Web Development: Crafting high-performance websites using Next.js, Nest.js, Tailwind CSS ⚡, and WordPress (Elementor, custom themes/plugins).<p/>
+<p>🔹 Web Development: Crafting high-performance websites using Next.js, Nest.js & Tailwind CSS ⚡.<p/>
 <p>🔹 UI/UX Design: Designing intuitive, pixel-perfect interfaces with Figma ✏️, focusing on accessibility and user delight.<p/>
-<p>🔹 Data Science: Exploring Python 🐍, R 📈, Pandas, NumPy to solve real-world problems with data-driven solutions.<p/>
+<p>🔹 Data Science: Exploring Python 🐍, R 📈, Power BI, to solve real-world problems with data-driven solutions.<p/>
 <p>🔹 Problem-Solving: Breaking down complex challenges 🧩 into elegant, scalable solutions—whether it’s a buggy API 🐞 or a messy dataset 📉. 
 <p/>
 My Work & Projects 
-<p>✅ Built 10+ WordPress websites   
 <p/>
 <p>✅ Developed custom web apps (LMS platforms, personal site and other). <p/>
 <p>✅ Contributed to open-source projects (GitHub) .
