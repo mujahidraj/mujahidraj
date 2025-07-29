@@ -24,8 +24,8 @@ What I Do
 <p/>
 My Work & Projects 
 <p/>
-<p>✅ Developed custom web apps (LMS platforms, personal site and other). <p/>
-<p>✅ Contributed to open-source projects (GitHub) .
+<p>🔹 Developed custom web apps (LMS platforms, personal site and other). <p/>
+<p>🔹 Contributed to open-source projects (GitHub) .
 <p/>
 My Passion
 I’m obsessed with bridging gaps—between design and code, data and decisions, or users and technology. Whether it’s:  
@@ -51,18 +51,14 @@ I’m always open to collaborations, freelance projects, or geeky conversations�
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=mujahidraj&theme=whatsapp-light)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=mujahidraj&theme=whatsapp-dark)](https://git.io/streak-stats)  
   
-
- 
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mujahidraj&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
    <br/>
 
    
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mujahidraj&layout=compact&theme=default&hide_border=true&border_radius=10&langs_count=15&exclude_repo=github-readme-stats,anuraghazra.github.io)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mujahidraj&layout=compact&theme=dark&hide_border=true&border_radius=10&langs_count=15&exclude_repo=github-readme-stats,anuraghazra.github.io)
   
 </div>
 
@@ -71,7 +67,7 @@ I’m always open to collaborations, freelance projects, or geeky conversations�
 <div align="center">
   
   ### 🌱 Contribution Graph
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mujahidraj&bg_color=ffffff&color=000000&line=6c63ff&point=1a1b27&area=true&hide_border=true&custom_title=My%20Daily%20Contributions&area_color=6c63ff&area_alpha=0.2)
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mujahidraj&bg_color=black&color=000000&line=FFFFFF&point=013220&area=true&hide_border=true&custom_title=My%20Daily%20Contributions&area_color=6c63ff&area_alpha=0.2)
   
   <br/>
   
@@ -94,7 +90,7 @@ I’m always open to collaborations, freelance projects, or geeky conversations�
   
   ### 💻 Languages
   
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 50px;">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
