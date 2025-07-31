@@ -35,6 +35,27 @@ I’m a passionate tech geek from **Bangladesh**, creating immersive web experie
 - 🛠️ Contributed to open-source on GitHub—PRs, issues, feedback
 - 📝 Wrote insightful blogs to share knowledge with the dev community
 
+## 🧰 Toolbox
+
+### 💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,r,html,css,cpp,java,csharp" />
+</p>
+
+### 🚀 Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,tailwind,express" />
+</p>
+
+### 🗃️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,oracle" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,arduino,vercel,netlify" />
+</p>
 
 
 ## 🏆 GitHub Stats & Streaks
@@ -90,8 +111,6 @@ I’m a passionate tech geek from **Bangladesh**, creating immersive web experie
 
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mujahidraj&repo=Number-system&theme=tokyonight&hide_border=true" />
 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mujahidraj&repo=Rinterio-House-Tailwind-DaisyUI-PH&theme=tokyonight&hide_border=true" />
-
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mujahidraj&repo=Hotel-management-system-CSHARP&theme=tokyonight&hide_border=true" />
 
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mujahidraj&repo=Search-Engine-JAVA&theme=tokyonight&hide_border=true" />
@@ -102,27 +121,7 @@ I’m a passionate tech geek from **Bangladesh**, creating immersive web experie
 
 
 
-## 🧰 Toolbox
 
-### 💻 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,r,html,css,cpp,java,csharp" />
-</p>
-
-### 🚀 Frameworks & Libraries
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,tailwind,express" />
-</p>
-
-### 🗃️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,oracle" />
-</p>
-
-### 🛠️ Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,arduino,vercel,netlify" />
-</p>
 
 
 
