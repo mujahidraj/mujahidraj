@@ -17,6 +17,21 @@
 
 
 
+<div align="center">
+  <details>
+    <summary><b>👨‍💻 Full-Stack Developer | UI/UX Enthusiast</b></summary>
+    <p>Building digital experiences with React, Next.js and design thinking</p>
+  </details>
+
+  
+  <div style="background: #161b22; padding: 15px; border-radius: 10px; max-width: 600px; margin: 0 auto;">
+    <p>📍 <b>Dhaka, Bangladesh</b> | 🎓 Computer Science</p>
+    <p>💡 Passionate about bridging <b>design</b> and <b>technology</b></p>
+    <p>🚀 Currently exploring <b>AI integration</b> in web applications</p>
+  </div>
+</div>
+
+
 ## 🌐 About Me
 
 I’m a passionate tech geek from **Bangladesh**, creating immersive web experiences while diving deep into data science and modern design systems.
@@ -27,6 +42,11 @@ I’m a passionate tech geek from **Bangladesh**, creating immersive web experie
 - 🎨 Design-thinker with experience in **Figma**, **micro-interactions**, and user empathy
 - 🧰 Builds with **clean architecture**, RESTful APIs, and scalable backend solutions
 
+**🚀 My Tech DNA:**  
+- 💻 **Frontend:** React, Next.js, Tailwind, Framer Motion  
+- ⚙️ **Backend:** Node.js, NestJS, PostgreSQL  
+- 🎨 **Design:** Figma, Adobe XD, UI/UX Principles  
+- 🤖 **Exploring:** AI/ML, LLMs, Web3  
 
 
 ## 🚀 Projects & Contributions
@@ -39,7 +59,7 @@ I’m a passionate tech geek from **Bangladesh**, creating immersive web experie
 
 ### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,r,html,css,cpp,java,csharp" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,r,html,css,cpp,java,php,c,cs" />
 </p>
 
 ### 🚀 Frameworks & Libraries
@@ -49,19 +69,19 @@ I’m a passionate tech geek from **Bangladesh**, creating immersive web experie
 
 ### 🗃️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,oracle" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo" />
 </p>
 
 ### 🛠️ Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,arduino,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,arduino,vercel,netlify,docker" />
 </p>
 
 
 ## 🏆 GitHub Stats & Streaks
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mujahidraj&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://streak-stats.demolab.com/?user=mujahidraj&theme=tokyonight&hide_border=true&border_radius=10" />
   <br/>
   <br/>
   <br/>
