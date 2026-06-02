@@ -205,16 +205,7 @@ I'm a passionate tech builder from **Dhaka, Bangladesh 🇧🇩**, obsessed with
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   " First, solve the problem.                                    ║
-║     Then, write the code. "                                      ║
-║                                                                  ║
-║                                          — John Johnson          ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 
