@@ -174,28 +174,6 @@ I'm a passionate tech builder from **Dhaka, Bangladesh 🇧🇩**, obsessed with
 <!--           FEATURED PROJECTS            -->
 <!-- ═══════════════════════════════════════ -->
 
-## 📦 Featured Projects
-
-<div align="center">
-
-[![TechWisdom Student](https://github-readme-stats.vercel.app/api/pin/?username=mujahidraj&repo=TechWisdom-Student-NextJs&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=ff9800&text_color=c9d1d9&show_owner=true)](https://github.com/mujahidraj/TechWisdom-Student-NextJs)
-[![Rest API NestJS](https://github-readme-stats.vercel.app/api/pin/?username=mujahidraj&repo=Rest-Api-NestJs&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=ff9800&text_color=c9d1d9&show_owner=true)](https://github.com/mujahidraj/Rest-Api-NestJs)
-
-[![Health Tracker](https://github-readme-stats.vercel.app/api/pin/?username=mujahidraj&repo=Health-Tracker&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=ff9800&text_color=c9d1d9&show_owner=true)](https://github.com/mujahidraj/Health-Tracker)
-[![Games](https://github-readme-stats.vercel.app/api/pin/?username=mujahidraj&repo=games&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=ff9800&text_color=c9d1d9&show_owner=true)](https://github.com/mujahidraj/games)
-
-[![Algorithm Solution Hub](https://github-readme-stats.vercel.app/api/pin/?username=mujahidraj&repo=Algorithm-Solution-Hub&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=ff9800&text_color=c9d1d9&show_owner=true)](https://github.com/mujahidraj/Algorithm-Solution-Hub)
-[![Personal Site](https://github-readme-stats.vercel.app/api/pin/?username=mujahidraj&repo=Personal-Site&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=ff9800&text_color=c9d1d9&show_owner=true)](https://github.com/mujahidraj/Personal-Site)
-
-[![Number System](https://github-readme-stats.vercel.app/api/pin/?username=mujahidraj&repo=Number-system&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=ff9800&text_color=c9d1d9&show_owner=true)](https://github.com/mujahidraj/Number-system)
-[![Hotel Management C#](https://github-readme-stats.vercel.app/api/pin/?username=mujahidraj&repo=Hotel-management-system-CSHARP&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=ff9800&text_color=c9d1d9&show_owner=true)](https://github.com/mujahidraj/Hotel-management-system-CSHARP)
-
-[![Search Engine Java](https://github-readme-stats.vercel.app/api/pin/?username=mujahidraj&repo=Search-Engine-JAVA&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=ff9800&text_color=c9d1d9&show_owner=true)](https://github.com/mujahidraj/Search-Engine-JAVA)
-
-</div>
-
----
-
 
 <!-- ═══════════════════════════════════════ -->
 <!--          DEV QUOTE (STYLED)            -->
