@@ -1,211 +1,123 @@
-<!-- ████████████████████████████████████████████████████ -->
-<!--        MUJAHID RASHID — GITHUB PROFILE README        -->
-<!-- ████████████████████████████████████████████████████ -->
-
-
-<!-- ═══════════════════════════════════════ -->
-<!--              HEADER BANNER             -->
-<!-- ═══════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0f0c29,40:1a1a3e,80:302b63,100:0d1117&height=230&section=header&text=Moizuddin%20Mohammad%20Mujahid%20Rashid&fontSize=34&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20AI%20Explorer&descAlignY=68&descSize=16&animation=fadeIn" />
-
-
-<!-- ═══════════════════════════════════════ -->
-<!--            TYPING ANIMATION            -->
-<!-- ═══════════════════════════════════════ -->
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=700&height=55&lines=Full+Stack+Developer+from+Dhaka%2C+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;React+%2B+Next.js+%2B+Tailwind+enthusiast;Exploring+AI%2C+LLMs+and+Web3;Clean+code+%7C+Scalable+architecture;Bridging+Design+and+Engineering" alt="Typing SVG" />
-</div>
 
-
-<!-- ═══════════════════════════════════════ -->
-<!--           BADGES ROW                   -->
-<!-- ═══════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mujahidraj&label=Profile+Views&color=6c63ff&style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/mujahidraj?style=flat-square&color=ff9800&labelColor=0d1117&logo=github&logoColor=white&label=Followers" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to%20Work-00e676?style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Dhaka%2C%20Bangladesh-ff4757?style=flat-square&logo=googlemaps&logoColor=white" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Moizuddin%20Mohammad%20Mujahid%20Rashid&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20ML%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
----
+<a href="https://www.mujahidraj.site/">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+%F0%9F%92%BB;Machine+Learning+Engineer+%F0%9F%A4%96;Building+things+that+scale+%F0%9F%9A%80;Always+shipping,+always+learning;&font=Fira+Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=24&duration=3000&pause=800"/>
+</a>
 
+<br/>
 
-<!-- ═══════════════════════════════════════ -->
-<!--              ABOUT ME                  -->
-<!-- ═══════════════════════════════════════ -->
+<a href="https://www.linkedin.com/in/mujahidraj/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/mujahidraj65/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://www.mujahidraj.site/">
+  <img src="https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="mailto:contact@mujahidraj.site">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-## 🌐 About Me
+<br/><br/>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  border-radius="10px" width="320px" />
-
-I'm a passionate tech builder from **Dhaka, Bangladesh 🇧🇩**, obsessed with creating immersive digital experiences at the intersection of **engineering, design, and intelligence**.
-
-### ✨ What Drives Me:
-- 🔥 **React + Next.js** dev with a sharp eye for UI polish
-- 🧠 Curious about **AI and Data** — where they collide
-- 🎨 Design-thinker with deep **Figma** + micro-interaction experience
-- 🧰 Architect of **clean code**, RESTful APIs, and scalable systems
-
-### 🚀 My Tech DNA:
-- 💻 **Frontend:** React, Next.js, Tailwind CSS, Framer Motion
-- ⚙️ **Backend:** Node.js, NestJS, Express, PostgreSQL
-- 🎨 **Design:** Figma, Adobe XD, UI/UX Principles
-- 🤖 **Exploring:** AI/ML, LLMs, Web3
-
-<br clear="right"/>
-
----
-
-
-<!-- ═══════════════════════════════════════ -->
-<!--               TOOLBOX                  -->
-<!-- ═══════════════════════════════════════ -->
-
-## 🧰 Toolbox
-
-### 💻 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,r,html,css,cpp,java,php,c,cs&theme=dark&perline=11" />
-</p>
-
-### 🚀 Frameworks & Libraries
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,tailwind,express,redux,graphql&theme=dark&perline=8" />
-</p>
-
-### 🗃️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,mongodb,redis,prisma&theme=dark&perline=6" />
-</p>
-
-### 🛠️ Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,arduino,vercel,netlify,docker,linux,vscode&theme=dark&perline=10" />
-</p>
-
----
-
-
-
-<!-- ═══════════════════════════════════════ -->
-<!--          CONTRIBUTION GRAPH            -->
-<!-- ═══════════════════════════════════════ -->
-
-## 📊 Contribution Graph
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mujahidraj&bg_color=0d1117&color=6c63ff&line=ff9800&point=ffffff&area=true&area_color=6c63ff&hide_border=true" />
-</div>
-
----
-
-
-<!-- ═══════════════════════════════════════ -->
-<!--     GITHUB CALENDAR (DAILY COMMITS)    -->
-<!-- ═══════════════════════════════════════ -->
-
-## 📅 GitHub Calendar — Daily Commit Heatmap
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/6c63ff/mujahidraj" alt="Mujahidraj GitHub Commit Calendar" width="100%" />
-</div>
-
----
-
-
-<!-- ═══════════════════════════════════════ -->
-<!--          ACHIEVEMENT TROPHIES          -->
-<!--  Using community mirror — more stable  -->
-<!-- ═══════════════════════════════════════ -->
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=mujahidraj&theme=onedark&no-frame=true&column=7&margin-w=10&margin-h=15" alt="GitHub Trophies" />
-</div>
-
----
-
-
-<!-- ═══════════════════════════════════════ -->
-<!--       PROJECTS & CONTRIBUTIONS         -->
-<!-- ═══════════════════════════════════════ -->
-
-## 🚀 Projects & Contributions
-
-- 🧑‍💻 Developed dynamic **LMS**, portfolio sites, web applications and data dashboards
-- 🛠️ Contributed to **open-source** — PRs, issues, code reviews
-- 📝 Wrote insightful **tech blogs** to share knowledge with the dev community
-- 🔌 Built **RESTful APIs** with NestJS consumed by production applications
-- 🎮 Created browser-based **games** and algorithm visualizers
-
----
-
-
-
-<!-- ═══════════════════════════════════════ -->
-<!--          DEV QUOTE (STYLED)            -->
-<!-- ═══════════════════════════════════════ -->
-
-## 💬 Dev Quote
-
-<div align="center">
-
-
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-
-</div>
-
----
-
-
-<!-- ═══════════════════════════════════════ -->
-<!--             LET'S CONNECT              -->
-<!-- ═══════════════════════════════════════ -->
-
-## 📬 Let's Connect!
-
-<div align="center">
-
-  <a href="https://www.linkedin.com/in/mujahidraj/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:Mujahidraj65@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://mujahidraj.github.io/Personal-Site/Portfolio/index.html">
-    <img src="https://img.shields.io/badge/Portfolio-6c63ff?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://mujahidraj.github.io/Personal-Site/My%20Blogs/index.html">
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/mujahidraj">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+![Profile Views](https://komarev.com/ghpvc/?username=mujahidraj&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/mujahidraj?style=for-the-badge&color=58a6ff&labelColor=161b22)
 
 </div>
 
 <br/>
 
----
+## 🧑‍💻 About Me
 
-<!-- FOOTER -->
+- 🔭 I'm a **Full Stack Developer** and **ML Engineer**, crafting end-to-end products — from pixel-perfect frontends to trained models and scalable APIs.
+- ⚡ I love turning ideas into fast, clean, production-ready applications.
+- 🌱 Currently deepening my skills in **Machine Learning** and **scalable backend architecture**.
+- 🎯 2026 Goal: Ship impactful open-source projects and grow as an ML engineer.
+- 💬 Ask me about **React / Next.js, Node.js, ML pipelines,** or **system design**.
+- ⚙️ Fun fact: I tinker with **Arduino** on the side — code meets hardware.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,50:1a1a3e,100:302b63&height=120&section=footer&reversal=true&animation=fadeIn" />
+<br/>
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <sub>⚡ Crafted with experience and passion from Dhaka, Bangladesh · Let's build something incredible together!</sub>
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,py,r,cpp,java,cs,php,c,html,css" />
+
+<br/><br/>
+
+**Frontend & Frameworks**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
+
+<br/><br/>
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql" />
+
+<br/><br/>
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,supabase,prisma" />
+
+<br/><br/>
+
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,arduino,vercel,netlify,docker,linux,vscode" />
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=mujahidraj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=mujahidraj&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mujahidraj&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mujahidraj&theme=tokyo-night&hide_border=true" width="98%"/>
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mujahidraj/mujahidraj/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+> Snake animation activates automatically once the `snake.yml` GitHub Action (setup below) runs on your profile repo.
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mujahidraj/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/mujahidraj65/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black"/></a>
+<a href="https://www.mujahidraj.site/"><img src="https://img.shields.io/badge/-Portfolio-2C5364?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+
 </div>
