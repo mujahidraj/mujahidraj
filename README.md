@@ -1,36 +1,8 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Moizuddin%20Mohammad%20Mujahid%20Rashid&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20ML%20Engineer&descAlignY=55&descSize=18" width="100%"/>
-
-<br/>
-
-<a href="https://www.mujahidraj.site/">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+%F0%9F%92%BB;Machine+Learning+Engineer+%F0%9F%A4%96;Building+things+that+scale+%F0%9F%9A%80;Always+shipping,+always+learning;&font=Fira+Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=24&duration=3000&pause=800"/>
-</a>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/mujahidraj/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/mujahidraj65/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<a href="https://www.mujahidraj.site/">
-  <img src="https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="mailto:contact@mujahidraj.site">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header" width="100%"/> <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=32&duration=4000&pause=10000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=700&height=55&lines=Moizuddin+Mohammad+Mujahid+Rashid" /> <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=400&size=17&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=600&height=35&lines=Full+Stack+Developer;Machine+Learning+Engineer;Building+products+end-to-end" /> <br/> <a href="https://www.linkedin.com/in/mujahidraj/"> <img src="https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=0A66C2"/> </a> <a href="https://leetcode.com/mujahidraj65/"> <img src="https://img.shields.io/badge/LeetCode-161b22?style=flat-square&logo=leetcode&logoColor=FFA116"/> </a> <a href="https://www.mujahidraj.site/"> <img src="https://img.shields.io/badge/Portfolio-161b22?style=flat-square&logo=googlechrome&logoColor=58A6FF"/> </a> <a href="mailto:contact@mujahidraj.site"> <img src="https://img.shields.io/badge/Email-161b22?style=flat-square&logo=gmail&logoColor=D14836"/> </a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mujahidraj&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/mujahidraj?style=for-the-badge&color=58a6ff&labelColor=161b22)
-
-</div>
-
-<br/>
+<img src="https://komarev.com/ghpvc/?username=mujahidraj&color=58a6ff&style=flat-square&label=PROFILE+VIEWS"/> <img src="https://img.shields.io/github/followers/mujahidraj?style=flat-square&color=58a6ff&labelColor=161b22&label=FOLLOWERS"/> </div> <br/>
 
 ## 🧑‍💻 About Me
 
@@ -83,20 +55,18 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=mujahidraj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=mujahidraj&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 
-<br/>
+<br/><br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mujahidraj&theme=tokyonight&hide_border=true" />
 
-<br/>
+<br/><br/> <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mujahidraj&theme=tokyo-night&hide_border=true" width="98%"/>
-
+<img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=mujahidraj&theme=tokyo-night&hide_border=true" width="98%"/> </div> <br/>
 </div>
 
-<br/>
+<br/><br/><br/>
 
 ## 🐍 Contribution Snake
 
