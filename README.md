@@ -50,7 +50,7 @@ I'm a passionate tech builder from **Dhaka, Bangladesh 🇧🇩**, obsessed with
 
 ### ✨ What Drives Me:
 - 🔥 **React + Next.js** dev with a sharp eye for UI polish
-- 🧠 Curious about **AI, UX, and Data** — where they collide
+- 🧠 Curious about **AI and Data** — where they collide
 - 🎨 Design-thinker with deep **Figma** + micro-interaction experience
 - 🧰 Architect of **clean code**, RESTful APIs, and scalable systems
 
@@ -83,7 +83,7 @@ I'm a passionate tech builder from **Dhaka, Bangladesh 🇧🇩**, obsessed with
 
 ### 🗃️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,prisma&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,mongodb,redis,prisma&theme=dark&perline=5" />
 </p>
 
 ### 🛠️ Tools & Platforms
@@ -161,7 +161,7 @@ I'm a passionate tech builder from **Dhaka, Bangladesh 🇧🇩**, obsessed with
 
 ## 🚀 Projects & Contributions
 
-- 🧑‍💻 Developed dynamic **LMS**, portfolio sites, and data dashboards
+- 🧑‍💻 Developed dynamic **LMS**, portfolio sites, web applications and data dashboards
 - 🛠️ Contributed to **open-source** — PRs, issues, code reviews
 - 📝 Wrote insightful **tech blogs** to share knowledge with the dev community
 - 🔌 Built **RESTful APIs** with NestJS consumed by production applications
@@ -231,5 +231,5 @@ I'm a passionate tech builder from **Dhaka, Bangladesh 🇧🇩**, obsessed with
 <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,50:1a1a3e,100:302b63&height=120&section=footer&reversal=true&animation=fadeIn" />
 
 <div align="center">
-  <sub>⚡ Crafted with ❤️ from Dhaka, Bangladesh · Let's build something incredible together!</sub>
+  <sub>⚡ Crafted with experience and passion from Dhaka, Bangladesh · Let's build something incredible together!</sub>
 </div>
