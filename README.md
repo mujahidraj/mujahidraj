@@ -104,7 +104,7 @@
   <img src="https://raw.githubusercontent.com/mujahidraj/mujahidraj/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-> Snake animation activates automatically once the `snake.yml` GitHub Action (setup below) runs on your profile repo.
+
 
 <br/>
 
