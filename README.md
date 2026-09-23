@@ -83,7 +83,7 @@ I'm a passionate tech builder from **Dhaka, Bangladesh 🇧🇩**, obsessed with
 
 ### 🗃️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,mongodb,redis,prisma&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,mongodb,redis,prisma&theme=dark&perline=6" />
 </p>
 
 ### 🛠️ Tools & Platforms
@@ -93,26 +93,6 @@ I'm a passionate tech builder from **Dhaka, Bangladesh 🇧🇩**, obsessed with
 
 ---
 
-
-<!-- ═══════════════════════════════════════ -->
-<!--         GITHUB STATS + STREAKS         -->
-<!-- ═══════════════════════════════════════ -->
-
-## 🏆 GitHub Stats & Streaks
-
-<div align="center">
-  <img height="190px" src="https://github-readme-stats.vercel.app/api?username=mujahidraj&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=ff9800&text_color=c9d1d9" />
-  &nbsp;&nbsp;
-  <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujahidraj&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="72%" src="https://streak-stats.demolab.com?user=mujahidraj&theme=tokyonight&hide_border=true&background=0d1117&stroke=6c63ff&ring=ff9800&fire=ff9800&currStreakLabel=6c63ff&sideLabels=6c63ff&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681" />
-</div>
-
----
 
 
 <!-- ═══════════════════════════════════════ -->
@@ -169,10 +149,6 @@ I'm a passionate tech builder from **Dhaka, Bangladesh 🇧🇩**, obsessed with
 
 ---
 
-
-<!-- ═══════════════════════════════════════ -->
-<!--           FEATURED PROJECTS            -->
-<!-- ═══════════════════════════════════════ -->
 
 
 <!-- ═══════════════════════════════════════ -->
