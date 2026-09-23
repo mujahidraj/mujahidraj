@@ -44,7 +44,7 @@
 
 ## 🌐 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320px" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  border-radius="10px" width="320px" />
 
 I'm a passionate tech builder from **Dhaka, Bangladesh 🇧🇩**, obsessed with creating immersive digital experiences at the intersection of **engineering, design, and intelligence**.
 
