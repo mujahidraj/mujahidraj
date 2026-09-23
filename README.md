@@ -55,11 +55,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=mujahidraj&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-
+ <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=mujahidraj&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" /> <br/>
 <br/><br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mujahidraj&theme=tokyonight&hide_border=true" />
+<img width="full" src="https://github-readme-streak-stats.herokuapp.com/?user=mujahidraj&theme=tokyonight&hide_border=true" />
 
 <br/><br/> <br/>
 
